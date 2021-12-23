@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/paulweezydesign.svelte-kxjh5ykh",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve siF3bVIQpq0PWvHuXV8o --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
